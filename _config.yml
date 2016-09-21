@@ -71,7 +71,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://phunghv.github.io'
+  siteurl: 'https://phunghv.github.io/'
   relativeLinks: 'https://phunghv.github.io/links.jsonp'
   media: 'images'
   metadata:
