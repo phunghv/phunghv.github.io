@@ -8,7 +8,7 @@ comments: true
 featured: true
 ---
 
-Bài viết tổng hợp 1 số thông tin từ cuốn sách `Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners` của tác giả [Jared Dean](http://as.wiley.com/WileyCDA/Section/id-302477.html?query=Jared+Dean)
+Bài viết tổng hợp 1 số thông tin từ cuốn sách _Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners_ của tác giả [Jared Dean](http://as.wiley.com/WileyCDA/Section/id-302477.html?query=Jared+Dean).
 
 <section id="table-of-contents" class="toc">
   <header>
@@ -20,41 +20,58 @@ Bài viết tổng hợp 1 số thông tin từ cuốn sách `Big Data, 
 </div>
 </section><!-- /#table-of-contents -->
 
-## Giới thiệu
+# Giới thiệu
 
-### Big Data timeline
+## Big Data timeline
 
-### Vì sao chủ đề này thích hợp
+## Vì sao chủ đề này thích hợp
 
-### Big data có thực sự thích thú hay không?
+## Big data có thực sự thích thú hay không
 
-### Nơi mà sử dụng Big data để tạo nên những sự khác biệt lớn
+## Nơi mà sử dụng Big data để tạo nên những sự khác biệt lớn
 
-## Môi trường tính toán
+# Môi trường tính toán
 
-### Phần cứng
-#### Storage (Disk)
-#### CPU (Central Processing Unit)
-#### Memory
-#### Network
+## Phần cứng
 
-### Hệ phân tán
-#### Cơ sở dữ liệu
-#### Hệ thống file
-#### Các vấn đề cần chú ý
+### Storage (Disk)
 
-### Các công cụ phân tích
-#### Weka
-#### Java và các ngôn ngữ JVM
-#### Ngôn ngữ R
-#### Ngôn ngữ Python
-#### SAS
+### CPU (Central Processing Unit)
 
-### Chuyển đổi dữ liệu thành các giá trị thương mại
+### Memory
 
-### Các kỹ thuật lập mô hình dự đoán chung
+### Network
 
-### Sự phân khúc
+## Hệ phân tán
 
-### Mô hình phản hồi tăng dần
+### Cơ sở dữ liệu
 
+### Hệ thống file
+
+### Các vấn đề cần chú ý
+
+## Các công cụ phân tích
+
+### Weka
+
+### Java và các ngôn ngữ JVM
+
+### Ngôn ngữ R
+
+### Ngôn ngữ Python
+
+### SAS
+
+## Chuyển đổi dữ liệu thành các giá trị thương mại
+
+## Các kỹ thuật lập mô hình dự đoán chung
+
+## Sự phân khúc
+
+## Mô hình phản hồi tăng dần
+
+## Khai phá dữ liệu theo chuỗi thời gian
+
+## Hệ thống gợi ý
+
+## Phân tích dữ liệu văn bản
