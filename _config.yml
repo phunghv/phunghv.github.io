@@ -41,6 +41,8 @@ links:
     url: /featured
   - title: Categories
     url: /categories
+  - title: Demo
+    url: /demo
   - title: About
     url: /about
 
