@@ -83,7 +83,8 @@ tags: [Hossain, Mohd, Faysal, electrical, engineering, blog, university, pennsyl
                 </h3>
             </header>
             <section class="notepad-post-excerpt">
-                <p>{{ post.content | strip_html | truncatewords:100 }}</p>
+                <!-- <p>{{ post.content | strip_html | truncatewords:100 }}</p> -->
+                <p>{{ post.excerpt }}</p>
             </section>
             
                 <div class="notepad-index-post-tags">
