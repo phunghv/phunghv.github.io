@@ -6,6 +6,12 @@
 
 .cf:after {
   clear: both; }
+  
+  canvas {
+    display: block;
+    cursor: crosshair;
+  }
+  
 
 body {
   font-family: "Open Sans", sans-serif;

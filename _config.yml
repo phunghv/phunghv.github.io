@@ -43,15 +43,15 @@ links:
     url: /featured
   - title: Categories
     url: /categories
-  - title: Demo
-    url: /demo
+  - title: TNAG?
+    url: /tnag
   - title: About
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Bangkok
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
